@@ -34,11 +34,11 @@ button{
     font-weight: 500;
     font-size: 18px;
     color: aliceblue;
+    cursor: pointer;
 }
 
 button:hover{
     background: #0A8FC2;
-    cursor: pointer;
 }
 
 .line{
@@ -63,4 +63,9 @@ button:hover{
     color: #7DD3FC;
     text-align: center;
     line-height: 40px;
+}
+
+.passwordField:hover{
+    background: #324b70;
+    cursor: pointer;
 }
