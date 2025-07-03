@@ -2,13 +2,13 @@ body {
     margin: 0;
     background-color: #1F2937;
     font-family: "Inter", sans-serif;
-    color: white;
     padding: 0 40px
 }
 
 h1 {
     font-size: 40px;
     margin-top:50px;
+    color: white;
 }
 
 p{
@@ -31,6 +31,14 @@ button{
     border-radius: 6px;
     background: #027EB2;
     border:0;
+    font-weight: 500;
+    font-size: 18px;
+    color: aliceblue;
+}
+
+button:hover{
+    background: #0A8FC2;
+    cursor: pointer;
 }
 
 .line{
