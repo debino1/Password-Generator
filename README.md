@@ -20,8 +20,6 @@ A tool that generates random passwords to enhance user security.
 
 
 ## What I Learned
-- DOM manipulation
-- Event handling
 - Conditional logic
 - Loops
 - Randomisation
